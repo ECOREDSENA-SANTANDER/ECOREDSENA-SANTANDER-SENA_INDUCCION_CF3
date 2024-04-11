@@ -17,3 +17,100 @@
 
   100%
     transform: translateY(0px)
+.banner-principal__img
+  padding-bottom: 0 !important
+.titulo-principal.color-acento-contenido .titulo-principal__numero 
+    background-color: $color-acento-botones;
+
+
+.cajon.color-acento-contenido 
+  background-color: #C3E5B2;
+.cajon.color-acento-contenido::before
+  background-color: #39A900;
+.lista-ol--cuadro__vineta
+    background-color: #39A900 !important
+.lista-ol--separador li, .lista-ul--separador li
+  border-bottom: dashed 1px #AFAFAF;
+.lista-ul--color li > i:first-of-type
+    color: #39A900;
+.lista-ul--color li > i:first-of-type,
+.lista-ol--color li > i:first-of-type
+    color: #39A900;
+.lista-ul--separador li:first-of-type,
+.lista-ol--separador li:first-of-type
+    border-top: dashed 1px #AFAFAF;
+    padding-top: 15px;
+    margin-bottom: 15px;
+.lista-ul--separador li:first-of-type,
+.lista-ol--separador li:first-of-type
+    border-top: dashed 1px #AFAFAF;
+.lista-ul--separador li:last-of-type,
+.lista-ol--separador li:last-of-type
+    border-bottom:  dashed 1px #AFAFAF;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+
+
+
+.linea-tiempo-k
+  &__item
+    &--selected
+      .linea-tiempo-k
+        &__item
+          &__content
+            &__title
+              font-weight: $base-bold-font-weight
+          &__number
+            font-weight: 900
+    &__col-number
+      display: flex
+      flex-direction: column
+
+    &__dots
+      flex: 1
+      display: flex
+      justify-content: center
+      padding: 5px 0
+      &:after
+        content: ''
+        display: block
+        width: 0
+        height: 100%
+        border-left: 5px dotted #FACBA8
+    &__number
+      display: flex
+      align-items: center
+      justify-content: center
+      min-width: 40px
+      height: 40px
+      cursor: pointer
+      transition: background-color .3s ease-in-out, color .3s ease-in-out
+    &__content
+      &__title
+        display: flex
+        align-items: center
+        height: 40px
+        cursor: pointer
+        &:hover
+          font-weight: $base-bold-font-weight
+      &__slot
+        overflow: hidden
+        transition: height .5s ease-in-out
+  .tarjeta
+    border-radius: 5px
+  &.color-acento-botones
+    .linea-tiempo-k__item--selected
+      .linea-tiempo-k__item__number
+        background-color: $color-acento-botones
+        color: textColor($color-acento-botones)
+        font-size: 20px;
+  
+  .tarjeta--color-acento-contenido
+    background-color: #F0F9EC
+
+.tarjeta--color-acento-contenido
+    background-color: #F0F9EC
+    border-radius: 10px !important
+
+.tabs-a__tab 
+  background-color: #F0F9EC 
