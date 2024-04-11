@@ -21,7 +21,7 @@
           img(src='@/assets/curso/temas/tema6/02.svg' alt="Formación titulada virtual")
         .col-sm-12.col-lg-9.px-4
             p.mb-4 Una vez se informa de la alternativa y tiene el aval del coordinador académico, el SENA – Centro de formación le asigna un instructor de seguimiento con el que se establecerán los formatos y evidencias que el aprendiz debe presentar de acuerdo con el plan de trabajo acordado. Estos son: 
-            ul.lista-ul--color.px-5
+            ul.lista-ul--color.px-5-cus
               li.px-4.mb-4
                 i.fas.fa-check-circle
                 | Formato 023 planeación, seguimiento, evaluación diligenciada por el ente coformador, aprendiz e instructor de seguimiento.
