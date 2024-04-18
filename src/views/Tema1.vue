@@ -67,7 +67,7 @@
               img(src='@/assets/curso/temas/tema1/04.svg', alt='Texto que describa la imagen')
           
         h2.text-center Evidencias de proceso
-        p.text-center Es la verificación de las técnicas, procedimientos y pasos; el uso de equipos herramientas y materiales en la aplicación de conceptos o en la ejecución de procedimientos.
+        p.text-center Es la verificación de las técnicas, procedimientos y pasos; el uso de equipos, herramientas y materiales en la aplicación de conceptos o en la ejecución de procedimientos.
       .col-md.tarjeta.color-primario.text-white.p-5.justify-content-center
         .row.justify-content-center.mb-4.justify-content-center
           .col-6

@@ -57,7 +57,8 @@
                   h3 Reingreso
                   .mt-3 Es la solicitud para reanudar su proceso de formación en el programa donde solicitó aplazamiento, y la fecha límite para que el aprendiz reingrese será la indicada en el acto administrativo respectivo. 
                   .mt-3 El reingreso está supeditado a que el programa se encuentre en ejecución y a la disponibilidad de cupo. De no existir cupo en el programa en el cual el aprendiz solicitó aplazamiento, el reingreso podrá efectuarse cuando exista disponibilidad de este; en todo caso, se informará por escrito al aprendiz la fecha de reintegro o su imposibilidad.
-                  .mt-3 Si el programa al que solicita el reingreso no se encuentra vigente en el momento de la solicitud, el Comité de Evaluación y Seguimiento procederá a: *Verificar que el programa vigente corresponda a la misma red, modalidad de formación o línea tecnológica.
+                  .mt-3 Si el programa al que solicita el reingreso no se encuentra vigente en el momento de la solicitud, el Comité de Evaluación y Seguimiento procederá a: 
+                  .mt-3 *Verificar que el programa vigente corresponda a la misma red, modalidad de formación o línea tecnológica.
                   .mt-3 *Analizar cada una de las competencias y resultados de los dos programas para establecer los que le faltan al aprendiz para que continúe en el proceso de formación.
                 .col-sm-12.col-lg-4
                   img(src='@/assets/curso/temas/tema3/03.svg' alt="Formación titulada virtual")

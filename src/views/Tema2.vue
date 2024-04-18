@@ -7,7 +7,7 @@
           span 2
         h1 Plan de mejoramiento
       
-      p.mb-5 Todos cometemos errores y, gracias a estos, nuestra vida es más grata debido a que esa experiencia nos impulsa a corregir nuestras acciones. El SENA no es ajeno a las oportunidades, por eso, desde el Reglamento del Aprendiz, se contempla esta posibilidad, que aplica tanto al ámbito presencial como virtual y que busca reprogramar al estudiante en actividades complementarias de formación, sin cometer atropellos o estar cargado de subjetividades.
+      p.mb-5 Todos cometemos errores y gracias a estos, nuestra vida es más grata debido a que esa experiencia nos impulsa a corregir nuestras acciones. El SENA no es ajeno a las oportunidades, por eso, desde el Reglamento del Aprendiz, se contempla esta posibilidad, que aplica tanto al ámbito presencial como virtual y que busca reprogramar al estudiante en actividades complementarias de formación, sin cometer atropellos o estar cargado de subjetividades.
       p.mb-5 Se contemplan dos tipos de planes de mejoramiento:
       h2.mb-4 Académico
       .row.mb-5
