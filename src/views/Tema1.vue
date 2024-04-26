@@ -48,7 +48,7 @@
           p Las fichas de observación y las listas de chequeo hacen operativa la técnica de observación; los cuestionarios de preguntas abiertas o cerradas están en relación con los talleres teóricos; y las guías operativas, con las pruebas prácticas.
 
     h2.mb-4 Evidencias de aprendizaje 
-    p.mb-5 Son los elementos que dan cuenta del aprendizaje que van logrando los aprendices. Estas evidencias podrán ser de conocimiento, de proceso o de producto.  A continuación, se describe cada uno de los mismos:
+    p.mb-5 Son los elementos que dan cuenta del aprendizaje que van logrando los aprendices. Estas evidencias podrán ser de conocimiento, de desempeño o de producto.  A continuación, se describe cada uno de los mismos:
 
     .tarjeta--container.row.mb-5.justify-content-center
       .col-md.tarjeta.color-primario.p-5
@@ -66,7 +66,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/04.svg', alt='Texto que describa la imagen')
           
-        h2.text-center Evidencias de proceso
+        h2.text-center Evidencias de desempeño
         p.text-center Es la verificación de las técnicas, procedimientos y pasos; el uso de equipos, herramientas y materiales en la aplicación de conceptos o en la ejecución de procedimientos.
       .col-md.tarjeta.color-primario.text-white.p-5.justify-content-center
         .row.justify-content-center.mb-4.justify-content-center

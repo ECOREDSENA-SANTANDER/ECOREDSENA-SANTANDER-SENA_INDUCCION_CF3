@@ -24,7 +24,7 @@
             ul.lista-ul--color.px-5-cus
               li.px-4.mb-4
                 i.fas.fa-check-circle
-                | Formato 023 planeación, seguimiento, evaluación diligenciada por el ente coformador, aprendiz e instructor de seguimiento.
+                | Formato 023 planeación, seguimiento, evaluación diligenciada por el ente conformador, aprendiz e instructor de seguimiento.
               li.px-4 
                 i.fas.fa-check-circle
                 | Diligenciamiento y entrega de bitácoras quincenales por el aprendiz.

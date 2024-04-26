@@ -17,7 +17,7 @@
           .linea-tiempo-k__item__dots
         .col.mb-4
           .linea-tiempo-k__item__content.tarjeta.tarjeta--color-acento-contenido
-            .linea-tiempo-k__item__content__slot(style='height: 479px;')
+            .linea-tiempo-k__item__content__slot
               .row.mb-5.p-5
                 .col-sm-12.col-lg-8
                   h3 Traslado
@@ -35,7 +35,7 @@
           .linea-tiempo-k__item__dots
         .col.mb-4
           .linea-tiempo-k__item__content.tarjeta.tarjeta--color-acento-contenido
-            .linea-tiempo-k__item__content__slot(style='height: 479px;')
+            .linea-tiempo-k__item__content__slot
               .row.mb-5.p-5
                 .col-sm-12.col-lg-8
                   h3 Aplazamiento
@@ -51,7 +51,7 @@
           .linea-tiempo-k__item__dots
         .col.mb-4
           .linea-tiempo-k__item__content.tarjeta.tarjeta--color-acento-contenido
-            .linea-tiempo-k__item__content__slot(style='height: 479px;')
+            .linea-tiempo-k__item__content__slot
               .row.mb-5.p-5
                 .col-sm-12.col-lg-8
                   h3 Reingreso
@@ -68,7 +68,7 @@
             span 4
         .col.mb-4
           .linea-tiempo-k__item__content.tarjeta.tarjeta--color-acento-contenido
-            .linea-tiempo-k__item__content__slot(style='height: 479px;')
+            .linea-tiempo-k__item__content__slot
               .row.mb-5.p-5
                 .col-sm-12.col-lg-8
                   h3 Retiro voluntario

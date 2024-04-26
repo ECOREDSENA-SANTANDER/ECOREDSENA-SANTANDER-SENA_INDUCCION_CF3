@@ -16,7 +16,7 @@
           h4 Contrato de aprendizaje
           .row.mb-5
             .col-sm-12.col-lg-8
-              p.mb-3 Desempeño, a través del Contrato de Aprendizaje, en una de las diferentes empresas obligadas y/o voluntarias, incluida el SENA. La constancia de cumplimiento a satisfacción es expedida por la empresa respectiva.
+              p.mb-3 Desempeño, a través del contrato de aprendizaje, en una de las diferentes empresas obligadas y/o voluntarias, incluida el SENA. La constancia de cumplimiento a satisfacción es expedida por la empresa respectiva.
             .col-sm-12.col-lg-4
               img(src='@/assets/curso/temas/tema5/01.svg' alt="Formación titulada virtual")
         .tarjeta.tarjeta--color-acento-contenido.p-5(titulo="Vinculación laboral")
@@ -30,7 +30,7 @@
           h4 Participación en proyectos productivos
           .row.mb-5
             .col-sm-12.col-lg-8
-              p.mb-3 Participación en un proyecto productivo, o en SENA – Empresa, proveedor SENA. Estos posibilitan la simulación de entornos productivos reales y la aplicación de conocimientos, habilidades y destrezas pertinentes para las competencias del programa, para cumplir con el objetivo de la etapa productiva, donde se concierta sobre las condiciones de estadía, esto es, pago de algún auxilio económico o en especie.  La constancia de cumplimiento a satisfacción la expide el subdirector de centro respectivo. 
+              p.mb-3 Participación en un proyecto productivo, o en SENA – Empresa, proveedor SENA. Estos posibilitan la simulación de entornos productivos reales y la aplicación de conocimientos, habilidades y destrezas pertinentes para las competencias del programa, para cumplir con el objetivo de la etapa productiva, donde se concierta sobre las condiciones de estadía, esto es, pago de algún auxilio económico o en especie.  La constancia de cumplimiento a satisfacción la expide el subdirector del centro respectivo. 
             .col-sm-12.col-lg-4
               img(src='@/assets/curso/temas/tema5/03.svg' alt="Formación titulada virtual")
         .tarjeta.tarjeta--color-acento-contenido.p-5(titulo="Apoyo a entidades estatales, ONG y S.A.L")
@@ -44,7 +44,7 @@
           h4 Monitoría
           .row.mb-5
             .col-sm-12.col-lg-8
-              p.mb-3 Los aprendices seleccionados apoyan los procesos de formación con actividades complementarias. Debe ser en especialidades tecnológicamente afines a su programa de formación en un centro SENA particular. La constancia de cumplimiento a satisfacción de las actividades de monitoría la expide el subdirector de Centro de acuerdo con las horas asignadas por resolución.
+              p.mb-3 Los aprendices seleccionados apoyan los procesos de formación con actividades complementarias. Debe ser en especialidades tecnológicamente afines a su programa de formación en un centro SENA particular. La constancia de cumplimiento a satisfacción de las actividades de monitoría la expide el subdirector del centro de acuerdo con las horas asignadas por resolución.
             .col-sm-12.col-lg-4
               img(src='@/assets/curso/temas/tema5/05.svg' alt="Formación titulada virtual")
         .tarjeta.tarjeta--color-acento-contenido.p-5(titulo="Pasantías")

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Formación titulada virtual',
     descripcionCurso:
-      'La formación titulada virtual es una modalidad de la formación profesional integral que imparte el SENA, comprende las actividades de formación, entrenamiento, evaluación y reentrenamiento en temas específicos y se caracteriza por que las acciones de formación conducen al otorgamiento de un título de formación profesional, cumpliendo además con varios procesos y trámites administrativos.',
+      'La formación titulada virtual es una modalidad de la formación profesional integral que imparte el SENA, comprende las actividades de formación, entrenamiento, evaluación y reentrenamiento en temas específicos y se caracteriza porque las acciones de formación conducen al otorgamiento de un título de formación profesional, cumpliendo además con varios procesos y trámites administrativos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [],
@@ -48,7 +48,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Alternativas de selección etapa productiva',
         desarrolloContenidos: true,
       },
       {
@@ -64,6 +64,21 @@ export default {
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'glosario',
+        icono: 'fas fa-sort-alpha-down',
+        titulo: 'Glosario',
+      },
+      {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
+      {
+        icono: 'fas fa-book',
+        titulo: 'Referencias bibliográficas',
+        nombreRuta: 'referencias',
       },
       {
         icono: 'fas fa-file-pdf',
@@ -84,32 +99,75 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Etapa productiva',
+      referencia: 'SENA (s.f.) Etapa productiva. Aspectos generales.  ',
+      tipo: 'PDF',
+      descarga: '/downloads/etapa_productiva_aprendices_virtual.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Aprendiz',
+      significado:
+        'es una persona en continuo proceso de aprendizaje, en interacción permanente consigo mismo, con los demás y con la naturaleza, en los entornos sociales y productivos; en capacidad de construir sus propios conocimientos, que busca trascender la interpretación de la realidad para contribuir propositivamente en la transformación de esta, con un proyecto de vida centrado en el mejoramiento continuo personal, familiar, social y productivo. ',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Competencia laboral',
+      significado:
+        'la capacidad de una persona para desempeñar funciones productivas en contextos variables, con base en los estándares de calidad establecidos por el sector productivo. ',
+    },
+    {
+      termino: 'Estilo de aprendizaje',
+      significado:
+        'es el conjunto de características psicológicas, rasgos afectivos, cognitivos y fisiológicos que suelen expresarse conjuntamente cuando una persona debe enfrentar una situación de aprendizaje. ',
+    },
+    {
+      termino: 'Estrategia didáctica activa',
+      significado:
+        'es una propuesta de carácter metodológico que crea las condiciones propicias para que el aprendiz asuma su rol activo; el instructor, su rol de mediador; en medio de unos ambientes de aprendizaje tecnológicamente dotados para el proceso de aprender y de enseñar. ',
+    },
+    {
+      termino: 'Plan de mejoramiento',
+      significado:
+        'un plan de mejoramiento académico es un conjunto de medidas de cambio que se toman para optimizar el rendimiento académico y el desempeño actitudinal del estudiante. ',
+    },
+    {
+      termino: 'Pedagogía',
+      significado:
+        'es una ciencia aplicada, con características psicosociales, que tiene a la educación como principal interés de estudio. ',
+    },
+    {
+      termino: 'Resultados de aprendizaje',
+      significado:
+        'se definen como los logros (productos, respuestas, desempeños) de tipo motriz, valorativo, cognitivo y actitudinal, que debe alcanzar el aprendiz durante el proceso de aprendizaje. ',
+    },
+    {
+      termino: 'Transversales',
+      significado:
+        'una parte muy importante de la estructura curricular SENA es el aporte de las cinco (5) competencias transversales, las cuales se integran articuladamente dentro del diseño y el proyecto formativo. Estas son: emprendimiento, inglés, cultura física, salud ocupacional, ética. Cada aprendiz, dentro de su programa, se forma en la puesta en práctica e integrada de aptitudes, rasgos de personalidad, conocimientos y valores adquiridos, que son útiles, sean cuales sean sus campos de acción. ',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'SENA. (2016). Instructivo para orientar el desempeño del instructor en ambientes virtuales de aprendizaje. Versión 2. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia.  ',
+    },
+    {
+      referencia:
+        'SENA. (2015). Formación tecnopedagógica en ambientes virtuales de aprendizaje. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia.  ',
+    },
+    {
+      referencia:
+        'SENA. (2012). Inducción a procesos pedagógicos. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia.  ',
+    },
+    {
+      referencia:
+        'SENA. (2014). Inducción SENA. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia. ',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2016). Formación virtual. ',
+      link: 'http: //www.mineducacion.gov.co/cvn/1665/w3-article-261460.html',
     },
   ],
   creditos: [
@@ -168,10 +226,9 @@ export default {
           centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+          nombre: 'Uriel Darío González Montoya',
+          cargo: 'Correcctor de estilo',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
         },
       ],
     },
@@ -184,7 +241,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Lizeth karina Manchego Suarez',
+          nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora Fullstack',
           centro: 'Centro Agroturístico - Regional Santander',
         },

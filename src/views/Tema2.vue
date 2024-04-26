@@ -14,7 +14,7 @@
         .col-sm-12.col-lg-8
           p.mb-3 Se trata de una medida adoptada para definir acciones de formación, previo agotamiento de estrategias pedagógicas del instructor e iniciativas del aprendiz.  
           p.mb-3 Es un documento que consigna tareas concertadas entre el aprendiz y el instructor, que se formula durante la ejecución del programa de formación para garantizar el logro de los resultados de aprendizaje.
-          p.mb-3 El instructor deberá considerar el cambio de estrategias formativas, puesto que si las utilizadas en un principio no facilitaron del todo el aprendizaje, entonces hay que modificarlas por otras que le den al aprendiz la sensación de novedad, motivación, expectativa y le induzcan a realizarlas, es decir, que se mantienen los resultados deseables, pero se cambian las estrategias y las actividades de formación.
+          p.mb-3 El instructor deberá considerar el cambio de estrategias formativas, puesto que, si las utilizadas en un principio no facilitaron del todo el aprendizaje, entonces hay que modificarlas por otras que le den al aprendiz la sensación de novedad, motivación, expectativa y le induzcan a realizarlas, es decir, que se mantienen los resultados deseables, pero se cambian las estrategias y las actividades de formación.
           p.mb-3 No está de más recordar que este es uno de los aspectos delicados en un proceso de formación, pues de él depende una promoción, un reconocimiento o una certificación. Por lo tanto, el instructor debe:
   
         .col-sm-12.col-lg-4
@@ -45,7 +45,7 @@
   
           p.mb-3 Es una medida adoptada para definir acciones de carácter comportamental, actitudinal o social, para propiciar en el aprendiz cambios en su conducta cuando se le ha impuesto sanción disciplinaria consistente en llamado de atención escrito o condicionamiento de matrícula. 
           p.mb-3 Este plan debe ser firmado por el aprendiz, deberá contemplar la falta cometida y las evidencias de cambio que se esperan a partir de la concertación respectiva. 
-          p.mb-3 Será responsabilidad del instructor, o del coordinador que haya designado el subdirector de centro en el acto sancionatorio, participar en la definición de este mecanismo, evaluar el avance y el logro de los resultados comportamentales definidos.
+          p.mb-3 Será responsabilidad del instructor, o del coordinador que haya designado el subdirector del centro en el acto sancionatorio, participar en la definición de este mecanismo, evaluar el avance y el logro de los resultados comportamentales definidos.
           
           
   
