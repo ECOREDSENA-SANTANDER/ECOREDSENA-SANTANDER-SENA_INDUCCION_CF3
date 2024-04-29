@@ -167,7 +167,7 @@ export default {
     {
       referencia:
         'Ministerio de Educación Nacional. (2016). Formación virtual. ',
-      link: 'http: //www.mineducacion.gov.co/cvn/1665/w3-article-261460.html',
+      link: 'http://www.mineducacion.gov.co/cvn/1665/w3-article-261460.html',
     },
   ],
   creditos: [
